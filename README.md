@@ -1,6 +1,8 @@
-# Simplefolio ⚡️ [![GitHub](https://img.shields.io/github/license/cobiwave/simplefolio?color=blue)](https://github.com/cobiwave/simplefolio/blob/master/LICENSE.md) ![GitHub stars](https://img.shields.io/github/stars/cobiwave/simplefolio) ![GitHub forks](https://img.shields.io/github/forks/cobiwave/simplefolio)
+# Profile ⚡️ [![GitHub](https://img.shields.io/github/license/KSingh26/Profile?color=blue)](https://github.com/KSingh26/Profile/blob/main/LICENSE.md) ![GitHub stars](https://img.shields.io/github/stars/KSingh26/Profile) ![GitHub forks](https://img.shields.io/github/forks/KSingh26/Profile)
 
 ## A minimal portfolio template for Developers!
+
+
 
 <h2 align="center">
   <img src="https://github.com/KSingh26/Profile/blob/main/examples/example.gif" alt="Simplefolio" width="600px" />
