@@ -19,7 +19,7 @@
 ⚡️ Optimized with Parcel\
 ⚡️ Well organized documentation
 
-To view the demo: **[click here](https://ksingh26.github.io/Profile/)**
+To view the demo:(https://ksingh26.github.io/Profile/)
 
 ---
 
