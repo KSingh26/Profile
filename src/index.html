@@ -36,8 +36,31 @@
 
     <!-- Todo: remove the below script once you finish your portfolio -->
     <script async defer src="https://buttons.github.io/buttons.js"></script>
-  </head>
+    <link
+  href="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.css"
+  rel="stylesheet"
+/>
+<script src="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.js"></script>
+<script>
+  AOS.init();
+</script>
 
+  </head>
+  <header class="navbar">
+    <div class="container">
+      <h1 class="navbar-logo">
+        <a href="#top">Kamini Singh</a>
+      </h1>
+      <nav class="navbar-links">
+        <ul>
+          <li><a href="#about">About</a></li>
+          <li><a href="#projects">Projects</a></li>
+          <li><a href="#contact">Contact</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+  
   <!-- Todo: read the following HTML Todos to create your stunning portfolio website -->
   <body>
     <div id="top"></div>
@@ -100,7 +123,63 @@
       </div>
     </section>
     <!-- /END About Section -->
-
+    <section id="skills">
+      <div class="container">
+        <h2 class="section-title">Skills</h2>
+        <div class="skills-wrapper">
+          <div class="skills-category">
+            <h3 class="skills-subtitle">Frontend Skills</h3>
+            <div class="skills-category" data-aos="fade-up">
+              ...
+            </div>
+            <div class="skill" data-aos="zoom-in">
+              ...
+            </div>
+            
+            <div class="skills-grid">
+              <div class="skill">
+                <img src="assets\html.png" alt="HTML5" />
+                <p>HTML5</p>
+              </div>
+              <div class="skill">
+                <img src="assets\css.png" alt="CSS3" />
+                <p>CSS3</p>
+              </div>
+              <div class="skill">
+                <img src="assets\javascript.png" alt="JavaScript" />
+                <p>JavaScript</p>
+              </div>
+              <div class="skill">
+                <img src="assets\react.png" alt="React" />
+                <p>React</p>
+              </div>
+            </div>
+          </div>
+          <div class="skills-category">
+            <h3 class="skills-subtitle">Backend Skills</h3>
+            <div class="skills-grid">
+              <div class="skill">
+                <img src="assets\nodejs.png" alt="Node.js" />
+                <p>Node.js</p>
+              </div>
+              <div class="skill">
+                <img src="assets\express.png" alt="Express.js" />
+                <p>Express.js</p>
+              </div>
+              <div class="skill">
+                <img src="assets\mongodb.png" alt="MongoDB" />
+                <p>MongoDB</p>
+              </div>
+              <div class="skill">
+                <img src="assets\mysql.png" alt="MySQL" />
+                <p>MySQL</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    
     <!-- **** Projects Section **** -->
     <section id="projects">
       <div class="container">
@@ -131,7 +210,7 @@
                   rel="noreferrer"
                   target="_blank"
                   class="cta-btn text-color-main"
-                  href="https://github.com/AKASHRWB/HackHeritage-"
+                  href="#!"
                 >
                   Source Code
                 </a>
@@ -183,7 +262,7 @@
                   rel="noreferrer"
                   target="_blank"
                   class="cta-btn text-color-main"
-                  href="https://github.com/KSingh26/Chatbot"
+                  href="#!"
                 >
                   Source Code
                 </a>
@@ -236,7 +315,7 @@
                   rel="noreferrer"
                   target="_blank"
                   class="cta-btn text-color-main"
-                  href="https://github.com/KSingh26/Snakegame"
+                  href="#!"
                 >
                   Source Code
                 </a>
